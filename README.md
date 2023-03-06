@@ -7,9 +7,19 @@ is in Descending or Ascending order the added random number will be sorted in th
 correct location in regards to the other numbers.
  
 
-## Getting Started
+## ⚒️ Installation
 
-This project is a starting point for a Flutter application.
+Install Flutter to your computer.  Folow the following instructions https://docs.flutter.dev/get-started/install
+
+To start using this app you first need to clone the repository:
+
+git clone git@github.com:revyrob/sortFlutter.git
+
+Then you will need to install all the required packages for the application. Run this command (if you're using npm):
+
+flutter packages get
 
 
-# sortFlutter
+## 🎥 Demo
+
+https://www.loom.com/share/63a535a6136c41f096d66ec9ca3e59a2
